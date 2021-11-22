@@ -1,6 +1,6 @@
 {
   "name": "pitfall",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Pitfall, run a http server that never response.",
   "main": "index.js",
   "scripts": {
